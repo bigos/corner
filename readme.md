@@ -1,3 +1,9 @@
+# development server
+
+If you would like to use it with the Laravel server.php file you can head to your cli and start the server with the following command (from the root of your Laravel directory):
+
+    php -S localhost:8000 server.php
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
