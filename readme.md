@@ -1,8 +1,8 @@
-# development server
+# Development Server
 
-If you would like to use it with the Laravel server.php file you can head to your cli and start the server with the following command (from the root of your Laravel directory):
+Running development server from terminal.
 
-    php -S localhost:8000 server.php
+    php ./artisan serve
 
 # Laravel PHP Framework
 
