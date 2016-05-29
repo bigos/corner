@@ -1,3 +1,7 @@
+# Laravel Rails dictionary
+
+http://jimmylocoding.com/a-laravel-rails-dictionary/
+
 # Development Server
 
 Running development server from terminal.
