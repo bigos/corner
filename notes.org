@@ -1,4 +1,10 @@
 * Laravel learning notes
+** setting up on another machine
+*** git clone
+*** composer update
+*** copy .env.example to .env and edit
+*** php artisan key:generate
+*** php artisan serve
 
 * Application plan
 
