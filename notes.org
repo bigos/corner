@@ -1,0 +1,25 @@
+* Laravel learning notes
+
+* Application plan
+
+** pages
+
+*** home page
+
+**** user editable text
+
+**** perhaps some products
+***** latest
+***** featured
+
+*** products
+
+**** index
+
+**** images
+
+*** contact
+
+**** form
+
+**** email
