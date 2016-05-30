@@ -1,3 +1,11 @@
+# Laravel screencasts
+
+https://laracasts.com/series/laravel-5-fundamentals/episodes/1
+
+# Laravel tutorial
+
+https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/
+
 # Laravel Rails dictionary
 
 http://jimmylocoding.com/a-laravel-rails-dictionary/
